@@ -99,7 +99,6 @@ Key takeaways typically include:
 For questions, collaboration, or feedback: 
 James Nguyen  
 Data Analyst & Dashboard Designer
-(Linkedin: https://www.linkedin.com/in/tran-bao-minh-nguyen-296b01333/  For more projects finding:https://baominhnt.github.io/tbmnguyen.com/index.html)
-James Nguyen  
-Data Analyst & Dashboard Designer
-(Insert your preferred contact or portfolio link)
+(Linkedin: https://www.linkedin.com/in/tran-bao-minh-nguyen-296b01333/  
+For more projects finding:https://baominhnt.github.io/tbmnguyen.com/index.html)
+
