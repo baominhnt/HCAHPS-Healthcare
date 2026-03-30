@@ -96,6 +96,7 @@ Key takeaways typically include:
 5. Execute notebooks in order
 
 📬 Contact
+
 For questions, collaboration, or feedback: 
 James Nguyen  
 Data Analyst & Dashboard Designer
