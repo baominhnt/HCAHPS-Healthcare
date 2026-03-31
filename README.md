@@ -19,12 +19,12 @@ The analysis includes:
 - Provide clear, stakeholder‑ready insights for healthcare administrators and policymakers
 
 📂 Project Structure
-Mã
+
 HCAHPS-Analysis/
 │
 ├── data/
-│   ├── raw/                # Original HCAHPS datasets
-│   ├── processed/          # Cleaned and standardized datasets
+│   ├── raw/                
+│   ├── processed/         
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
@@ -37,10 +37,10 @@ HCAHPS-Analysis/
 │   ├── visualization.py
 │
 ├── outputs/
-│   ├── figures/            # Exported charts and plots
-│   ├── tables/             # Summary tables and metrics
+│   ├── figures/           
+│   ├── tables/            
 │
-├── dashboard/              # (Optional) Power BI or R Markdown dashboard
+├── dashboard/             
 │
 └── README.md
 
