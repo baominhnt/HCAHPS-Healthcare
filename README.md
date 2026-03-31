@@ -19,6 +19,7 @@ The analysis includes:
 - Provide clear, stakeholder‑ready insights for healthcare administrators and policymakers
 
 📂 Project Structure
+```text
 HCAHPS-Analysis/
 │
 ├── data/
@@ -42,6 +43,7 @@ HCAHPS-Analysis/
 ├── dashboard/              # Optional dashboard (Power BI / R Markdown)
 │
 └── README.md
+```
 
 
 
