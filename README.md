@@ -19,12 +19,11 @@ The analysis includes:
 - Provide clear, stakeholder‑ready insights for healthcare administrators and policymakers
 
 📂 Project Structure
-
 HCAHPS-Analysis/
 │
 ├── data/
-│   ├── raw/                
-│   ├── processed/         
+│   ├── raw/                # Original HCAHPS datasets
+│   ├── processed/          # Cleaned and standardized datasets
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
@@ -37,12 +36,13 @@ HCAHPS-Analysis/
 │   ├── visualization.py
 │
 ├── outputs/
-│   ├── figures/           
-│   ├── tables/            
+│   ├── figures/            # Exported charts and plots
+│   ├── tables/             # Summary tables and metrics
 │
-├── dashboard/             
+├── dashboard/              # Optional dashboard (Power BI / R Markdown)
 │
 └── README.md
+
 
 🧹 Data Sources & Preparation
 The project uses publicly available HCAHPS survey data from CMS. Key steps include:
