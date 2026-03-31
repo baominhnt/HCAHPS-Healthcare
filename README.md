@@ -23,25 +23,26 @@ HCAHPS-Analysis/
 │
 ├── data/
 │   ├── raw/                # Original HCAHPS datasets
-│   ├── processed/          # Cleaned and standardized datasets
+│   └── processed/          # Cleaned and standardized datasets
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_visualizations.ipynb
+│   └── 03_visualizations.ipynb
 │
 ├── src/
 │   ├── data_preprocessing.py
 │   ├── eda_utils.py
-│   ├── visualization.py
+│   └── visualization.py
 │
 ├── outputs/
 │   ├── figures/            # Exported charts and plots
-│   ├── tables/             # Summary tables and metrics
+│   └── tables/             # Summary tables and metrics
 │
 ├── dashboard/              # Optional dashboard (Power BI / R Markdown)
 │
 └── README.md
+
 
 
 🧹 Data Sources & Preparation
